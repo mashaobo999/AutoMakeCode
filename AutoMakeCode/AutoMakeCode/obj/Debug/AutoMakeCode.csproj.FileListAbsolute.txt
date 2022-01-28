@@ -1,0 +1,18 @@
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\bin\Debug\AutoMakeCode.exe.config
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\bin\Debug\AutoMakeCode.exe
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\bin\Debug\AutoMakeCode.pdb
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.Form1.resources
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.Properties.Resources.resources
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.csproj.GenerateResource.Cache
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.exe
+D:\Visual Studio 2012\Projects\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.pdb
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\bin\Debug\AutoMakeCode.exe.config
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.exe
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.pdb
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\bin\Debug\AutoMakeCode.exe
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\bin\Debug\AutoMakeCode.pdb
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.csprojResolveAssemblyReference.cache
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.Form1.resources
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.Properties.Resources.resources
+D:\之前电脑D盘文件\狮桥工作\新建文件夹\AutoMakeCode\AutoMakeCode\obj\Debug\AutoMakeCode.csproj.GenerateResource.Cache
